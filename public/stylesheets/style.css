@@ -1,0 +1,123 @@
+/*body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}*/
+html { overflow-y: scroll; }
+/*body { position: absolute; }*/
+
+a {
+  color: #00B7FF;
+}
+
+#header{
+  padding-top:-20px;
+}
+.hostel-type{
+  font-family:sans-serif;
+  font-size: 20px;
+}
+.image{
+  height: 200px;
+}
+.bg-overlay-black-70:before {
+    background: rgba(0, 0, 0, 0.6);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+.parallax {
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.designer-footer{
+    display: block;
+    /*float: left;*/
+    /*z-index: 10005;*/
+     height: 50px;
+    overflow: hidden;
+    position: relative;
+    font: 400 16px/24px Roboto,sans-serif;
+    background-size: cover;
+   background-color: #455a64;
+}
+.designer-footer a{
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    color:#ffffff;
+    font: 400 16px/24px Roboto,sans-serif;
+    background-size: cover;
+    background: transparent;
+}
+.designer-footer a:hover{
+    color:#ddd;
+}
+.overlay{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+ }
+ #testimonial {
+    background: url(../images/bg.jpg) 50% 0 repeat-y fixed;
+    background-size: cover;
+    background-position: center center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+  }
+  .parallax-section {
+     width: 100%;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+.landing{
+   color: white;
+   font-weight: 400px;
+   font-size: 35px;
+   font-family: serif;
+   font-style: italic;
+}
+.land{
+   color: white;
+   font-weight: 100px;
+   font-size: 25px;
+   font-family: serif;
+   font-style: italic;
+}
+.img-text{
+   font-size: 25px;
+   font-weight: 400px;
+
+}
+.card-footer {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    /*word-wrap: break-word;*/
+    background-color: #444;
+    /*background-clip: border-box;*/
+    /*border: 1px solid rgba(0,0,0,.125);*/
+    /*border-radius: .25rem;*/
+}

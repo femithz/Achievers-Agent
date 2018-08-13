@@ -1,0 +1,46 @@
+footer .social-media-footer a,
+.contact .contact-content i,
+.paginate .current,
+.content-post .author-post .author-info h3,
+.price .pricing-table .myprice,
+.serv i,
+.educ .education .title .infos-educ .info-timeline .job,
+.about .tabs-about .nav-link.active,
+.social-media a:hover,
+.navbar .nav-item a:hover,
+.nav-item a.active-nav {
+  color: #019d9b; }
+
+footer .social-media-footer a,
+.portfolio .shuffle ul li,
+.portfolio .shuffle ul li.active,
+.header .title a {
+  border: 1px solid #019d9b; }
+
+.content-post .mycontent .quote-content {
+  border-left: 5px solid #019d9b; }
+
+footer .social-media-footer a:hover,
+.contact .contact-map form .btn,
+.content-post .comment-respond .content button,
+.content-post .comments-post .comments .content .reply,
+.blog .post .tags-post,
+.blog .post .comments-post,
+.blog .post .category-post,
+.price .pricing-table .pricing-button,
+.portfolio .shuffle .active,
+.educ .education .title:after,
+.educ .education .title:before,
+.educ .education .title .infos-educ .timeline-de,
+.educ .education .title .infos-educ > span:first-of-type,
+.progress .progress-bar,
+.btn-manisa {
+  background-color: #019d9b; }
+
+.about .tabs-about .nav-link.active:before {
+  box-shadow: 0 2px 3px #019d9b; }
+
+.about .tabs-about .nav-link.active:after {
+  box-shadow: inset 3px 3px 3px rgba(1, 157, 155, 0.5), inset 1px 1px 1px rgba(0, 0, 0, 0.3); }
+
+/*# sourceMappingURL=default-color.css.map */

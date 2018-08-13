@@ -1,0 +1,153 @@
+/* Background Colors */
+
+.price .pricing-table,
+.option-box .color-option,
+.option-box .gear-check,
+.navbar .navbar-toggler,
+.social-media,
+.blog .post,
+.educ .education .title .infos-educ .info-timeline:before,
+.educ .education .title .infos-educ .info-timeline,
+.about .tabs-about .nav-link.active:after,
+.about .tabs-about .nav-item,
+.about .tabs-about .nav-link.active,
+.about .tabs-about .nav-link,
+body,
+section,
+.navbar {
+    background-color: #131313;
+}
+
+.contact .contact-map .contact-form,
+footer,
+.contact,
+.price,
+.educ {
+    background-color: #171717;
+}
+
+.form-control:focus,
+.form-control {
+    background-color: #232323;
+}
+
+.navbar {
+    background-color: rgba(19, 19, 19, 0.9);
+}
+
+.navbar-toggler .menu .line1, 
+.navbar-toggler .menu .line2, 
+.navbar-toggler .menu .line3 {
+    background-color: #fff;
+}
+
+a .bg_logo {
+    background-image: url(../images/light-logo.png);
+}
+
+/* Colors */
+
+.paginate a {
+    color: #fff!important;
+}
+
+.contact .contact-map .contact-form h2,
+.price .pricing-table .pricing-list li,
+.form-control:focus,
+.form-control,
+.option-box .color-option ul li span,
+.option-box .gear-check,
+.content-post .comment-respond h4,
+.social-media a,
+.content-post .comments-post .comments .content .name,
+.content-post .comments-post .num-comments,
+.content-post .author-post .author-info p,
+.content-post .mycontent .quote-content q,
+.navbar .collapse-menu,
+.navbar .nav-item a,
+footer p,
+.contact .contact-content span,
+.blog .post .infos-post h3 a,
+.portfolio .shuffle ul li,
+.serv .info-serv h5,
+.educ .education .title .infos-educ .info-timeline h5,
+.educ .education .title h3,
+.about .tabs-about .tab-content .tab-pane .skills .progress .progress-bar:before,
+.about .tabs-about .tab-content .tab-pane .skills .progress-text,
+.about .tabs-about .tab-content .tab-pane.profile .title-info,
+.title h2,
+.nav-item a {
+    color: #fff;
+}
+
+.content-post .comments-post .comments .content p,
+.content-post .author-post .author-info h3 span,
+.content-post .mycontent .quote-content span,
+.content-post .mycontent p,
+.blog .post .infos-post p,
+.serv .info-serv p,
+.educ .education .title .infos-educ .info-timeline p,
+.about .tabs-about .tab-content .tab-pane.profile h6 span:last-child,
+.about .tabs-about .tab-content .tab-pane p {
+    color: #ccc;
+}
+
+.price .pricing-table .description,
+.blog .post .infos-post span,
+.educ .education .title .infos-educ .info-timeline span {
+    color: #bbb;
+}
+
+/* Border Colors */
+
+.educ .education .title .infos-educ .roundtimeline {
+    border: 5px solid #171717;
+}
+
+.content-post hr{
+    border-top: 1px solid #444;
+}
+
+.price .pricing-table hr,
+.content-post .comments-post .comments hr,
+.blog .post .infos-post hr {
+    border-top: 1px solid #272727;
+}
+
+.option-box .color-option ul li,
+.navbar .collapse-menu .closed-menu:before {
+    border: 1px solid #FFF;
+}
+
+.price .pricing-table,
+.blog .post {
+    border: 1px solid #272727;
+}
+
+/* Box Shadow Colors */
+
+.portfolio .shuffle ul li.active,
+.educ .education .title .infos-educ .info-timeline {
+    box-shadow: none;
+}
+
+.option-box .color-option,
+.option-box .gear-check {
+    box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.2);
+}
+
+.serv .info-serv i {
+    box-shadow : -1px 9px 1px #0a0a0a;
+}
+
+.serv .info-serv i:hover {
+    box-shadow: -1px 4px 1px #0a0a0a;
+}
+
+.price .pricing-table:hover {
+    box-shadow: 1px 8px 31px rgba(10, 10, 10, 0.7);
+}
+
+.nav-item a.active-nav {
+    font-weight: 600;
+}
